@@ -7,6 +7,6 @@ Non functional requirements
 
 Functional requirements:
 - the scope is scheduled automatic payments
-- once the cancelation is sucessful, a receipe must be generated
+- once the cancelation is sucessful, a receipt must be generated
 - in the payment history the scheduled automatic payment must have the statys "cancelled"
 
